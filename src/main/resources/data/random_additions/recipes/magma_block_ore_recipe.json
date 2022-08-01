@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "random_additions:magma_block"
+    }
+  ],
+  "result": {
+    "item": "random_additions:magma_ingot",
+    "count": 9
+  }
+}

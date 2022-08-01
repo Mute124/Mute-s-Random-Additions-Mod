@@ -1,0 +1,11 @@
+{
+  "_fv": 28,
+  "_type": "tab",
+  "definition": {
+    "name": "Random additions Items",
+    "icon": {
+      "value": "CUSTOM:Bismuth"
+    },
+    "showSearch": true
+  }
+}

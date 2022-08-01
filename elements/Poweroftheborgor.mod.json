@@ -1,0 +1,26 @@
+{
+  "_fv": 28,
+  "_type": "potioneffect",
+  "definition": {
+    "effectName": "Power of the borgor",
+    "icon": "confusion.png",
+    "color": {
+      "value": -12747767,
+      "falpha": 0.0
+    },
+    "isInstant": true,
+    "isBad": false,
+    "isBenefitical": true,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true,
+    "onStarted": {
+      "name": "PoweroftheborgorPotionStartedapplied"
+    },
+    "onActiveTick": {
+      "name": "PoweroftheborgorPotionStartedapplied"
+    },
+    "onExpired": {
+      "name": "PoweroftheborgorPotionExpires"
+    }
+  }
+}

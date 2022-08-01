@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "item": "random_additions:borgor"
+    },
+    "title": {
+      "translate": "advancements.whatdid_itellyou.title"
+    },
+    "description": {
+      "translate": "advancements.whatdid_itellyou.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "whatdid_itellyou": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "item": "random_additions:borgor"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "random_additions:suspiciouslookingborgor"
+}

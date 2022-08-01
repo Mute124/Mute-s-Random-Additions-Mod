@@ -1,0 +1,1028 @@
+{
+  "mod_elements": [
+    {
+      "name": "Bismuth",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bismuth"
+    },
+    {
+      "name": "BismuthOre",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bismuth_ore"
+    },
+    {
+      "name": "BismuthBlock",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bismuth_block"
+    },
+    {
+      "name": "BismuthOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bismuth_ore_block_recipe"
+    },
+    {
+      "name": "BismuthBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bismuth_block_ore_recipe"
+    },
+    {
+      "name": "BismuthOreSmelting",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bismuth_ore_smelting"
+    },
+    {
+      "name": "Bismuth_toolsPickaxe",
+      "type": "tool",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bismuth_tools_pickaxe"
+    },
+    {
+      "name": "Bismuth_toolsAxe",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bismuth_tools_axe"
+    },
+    {
+      "name": "Bismuth_toolsSword",
+      "type": "tool",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bismuth_tools_sword"
+    },
+    {
+      "name": "Bismuth_toolsShovel",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bismuth_tools_shovel"
+    },
+    {
+      "name": "Bismuth_toolsHoe",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bismuth_tools_hoe"
+    },
+    {
+      "name": "Bismuth_toolsPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bismuth_tools_pickaxe_recipe"
+    },
+    {
+      "name": "Bismuth_toolsAxeRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bismuth_tools_axe_recipe"
+    },
+    {
+      "name": "Bismuth_toolsSwordRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bismuth_tools_sword_recipe"
+    },
+    {
+      "name": "Bismuth_toolsShovelRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bismuth_tools_shovel_recipe"
+    },
+    {
+      "name": "Bismuth_toolsHoeRecipe",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bismuth_tools_hoe_recipe"
+    },
+    {
+      "name": "RandomAdditionstools",
+      "type": "tab",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "random_additionstools"
+    },
+    {
+      "name": "Wood_ArmorArmor",
+      "type": "armor",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wood_armor_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Wood_ArmorArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wood_armor_armor_helmet_recipe"
+    },
+    {
+      "name": "Wood_ArmorArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wood_armor_armor_body_recipe"
+    },
+    {
+      "name": "Wood_ArmorArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wood_armor_armor_leggings_recipe"
+    },
+    {
+      "name": "Wood_ArmorArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wood_armor_armor_boots_recipe"
+    },
+    {
+      "name": "Oooshiny",
+      "type": "achievement",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oooshiny"
+    },
+    {
+      "name": "RandomAdditionsFood",
+      "type": "tab",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "random_additions_food"
+    },
+    {
+      "name": "Borgor",
+      "type": "food",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "borgor"
+    },
+    {
+      "name": "Suspiciouslookingborgor",
+      "type": "achievement",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "suspiciouslookingborgor"
+    },
+    {
+      "name": "Gun",
+      "type": "rangeditem",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gun"
+    },
+    {
+      "name": "Oldoblisk",
+      "type": "structure",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oldoblisk"
+    },
+    {
+      "name": "Campfire",
+      "type": "structure",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "campfire"
+    },
+    {
+      "name": "BorgiumDust",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "borgium_dust"
+    },
+    {
+      "name": "BorgiumOre",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "borgium_ore"
+    },
+    {
+      "name": "BorgiumBlock",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "borgium_block"
+    },
+    {
+      "name": "BorgiumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "borgium_ore_block_recipe"
+    },
+    {
+      "name": "BorgiumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "borgium_block_ore_recipe"
+    },
+    {
+      "name": "BorgiumOreSmelting",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "borgium_ore_smelting"
+    },
+    {
+      "name": "BorgiumPickaxe",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "borgium_pickaxe"
+    },
+    {
+      "name": "BorgiumAxe",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "borgium_axe"
+    },
+    {
+      "name": "BorgiumSword",
+      "type": "tool",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "borgium_sword"
+    },
+    {
+      "name": "BorgiumShovel",
+      "type": "tool",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "borgium_shovel"
+    },
+    {
+      "name": "BorgiumHoe",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "borgium_hoe"
+    },
+    {
+      "name": "BorgiumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "borgium_pickaxe_recipe"
+    },
+    {
+      "name": "BorgiumAxeRecipe",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "borgium_axe_recipe"
+    },
+    {
+      "name": "BorgiumSwordRecipe",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "borgium_sword_recipe"
+    },
+    {
+      "name": "BorgiumShovelRecipe",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "borgium_shovel_recipe"
+    },
+    {
+      "name": "BorgiumHoeRecipe",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "borgium_hoe_recipe"
+    },
+    {
+      "name": "BorgiumArmor",
+      "type": "armor",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "borgium_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "BorgiumArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "borgium_armor_helmet_recipe"
+    },
+    {
+      "name": "BorgiumArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "borgium_armor_body_recipe"
+    },
+    {
+      "name": "BorgiumArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "borgium_armor_leggings_recipe"
+    },
+    {
+      "name": "BorgiumArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "borgium_armor_boots_recipe"
+    },
+    {
+      "name": "ConfusionPotionStartedapplied",
+      "type": "procedure",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "confusion_potion_startedapplied",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ConfusionPotionItem",
+      "type": "potion",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "confusion"
+    },
+    {
+      "name": "RandomAdditionsWeapons",
+      "type": "tab",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "random_additions_weapons"
+    },
+    {
+      "name": "Bullets",
+      "type": "item",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bullets"
+    },
+    {
+      "name": "Churchloot",
+      "type": "loottable",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "churchloot"
+    },
+    {
+      "name": "GrenadeBulletHitsBlock",
+      "type": "procedure",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "grenade_bullet_hits_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Grenadethrownitem",
+      "type": "item",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "grenadethrownitem"
+    },
+    {
+      "name": "Grenade",
+      "type": "rangeditem",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "grenade"
+    },
+    {
+      "name": "Cork",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cork"
+    },
+    {
+      "name": "Lootpig",
+      "type": "loottable",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lootpig"
+    },
+    {
+      "name": "Grenaderecipe",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "grenaderecipe"
+    },
+    {
+      "name": "Randomadditionsarmor",
+      "type": "tab",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "randomadditionsarmor"
+    },
+    {
+      "name": "Sprucecabin",
+      "type": "structure",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sprucecabin"
+    },
+    {
+      "name": "RandomadditionsItems",
+      "type": "tab",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "randomadditions_items"
+    },
+    {
+      "name": "Bark",
+      "type": "item",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bark"
+    },
+    {
+      "name": "Corkrecipe",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corkrecipe"
+    },
+    {
+      "name": "BismuthtoolsAxeRightClickedOnBlock",
+      "type": "procedure",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bismuthtools_axe_right_clicked_on_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Saw",
+      "type": "tool",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "saw"
+    },
+    {
+      "name": "Chainsaw",
+      "type": "tool",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chainsaw"
+    },
+    {
+      "name": "Barkcraftingrecipe",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "barkcraftingrecipe"
+    },
+    {
+      "name": "Sawcraftingrecipe",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sawcraftingrecipe"
+    },
+    {
+      "name": "Chainsawcraftingrecipe",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chainsawcraftingrecipe"
+    },
+    {
+      "name": "Explosiveordnance",
+      "type": "achievement",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "explosiveordnance"
+    },
+    {
+      "name": "BorgorFoodEaten",
+      "type": "procedure",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "borgor_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PoweroftheborgorPotionStartedapplied",
+      "type": "procedure",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "poweroftheborgor_potion_startedapplied",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PoweroftheborgorPotionItem",
+      "type": "potion",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "poweroftheborgor"
+    },
+    {
+      "name": "PoweroftheborgorPotionExpires",
+      "type": "procedure",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "poweroftheborgor_potion_expires",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "EnchantedborgorFoodEaten",
+      "type": "procedure",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enchantedborgor_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "WhatdidItellyou",
+      "type": "achievement",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whatdid_itellyou"
+    },
+    {
+      "name": "Economycrasher",
+      "type": "achievement",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "economycrasher"
+    },
+    {
+      "name": "Sawtime",
+      "type": "achievement",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sawtime"
+    },
+    {
+      "name": "MagmaIngot",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magma_ingot"
+    },
+    {
+      "name": "MagmaOre",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magma_ore"
+    },
+    {
+      "name": "MagmaBlock",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magma_block"
+    },
+    {
+      "name": "MagmaOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magma_ore_block_recipe"
+    },
+    {
+      "name": "MagmaBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magma_block_ore_recipe"
+    },
+    {
+      "name": "MagmaOreSmelting",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magma_ore_smelting"
+    },
+    {
+      "name": "Superhotstuff",
+      "type": "achievement",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "superhotstuff"
+    },
+    {
+      "name": "Theinfection",
+      "type": "biome",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "theinfection"
+    },
+    {
+      "name": "MagmaIngotItemInHandTick",
+      "type": "procedure",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magma_ingot_item_in_hand_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Passivemobkillelement",
+      "type": "procedure",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "passivemobkillelement",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "Drillbit",
+      "type": "item",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "drillbit"
+    },
+    {
+      "name": "Heart",
+      "type": "item",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heart"
+    },
+    {
+      "name": "Joingame",
+      "type": "achievement",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "joingame"
+    },
+    {
+      "name": "ConfusionPotionItem",
+      "type": "potion",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "confusion"
+    },
+    {
+      "name": "Confusion",
+      "type": "potioneffect",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "confusion"
+    },
+    {
+      "name": "PoweroftheborgorPotionItem",
+      "type": "potion",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "poweroftheborgor"
+    },
+    {
+      "name": "Poweroftheborgor",
+      "type": "potioneffect",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "poweroftheborgor"
+    },
+    {
+      "name": "Enchantedborgor",
+      "type": "item",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enchantedborgor"
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "test",
+      "type": "logic",
+      "scope": "map",
+      "value": "true"
+    },
+    {
+      "name": "number_of_foxes_killed",
+      "type": "number",
+      "scope": "world",
+      "value": "0"
+    }
+  ],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.minecraft.potion.effect.poweroftheborgor": "Poweroftheborgor",
+      "item.random_additions.grenade": "Grenade",
+      "itemGroup.tabrandomadditionsarmor": "Randomadditionsarmor",
+      "item.minecraft.splash_potion.effect.poweroftheborgor": "Splash Poweroftheborgor",
+      "advancements.superhotstuff.descr": "Obtain a magma ingot",
+      "item.random_additions.saw": "Saw",
+      "advancements.suspiciouslookingborgor.title": "Suspicious looking borgor",
+      "item.random_additions.borgium_armor_chestplate": "Borgium Chestplate",
+      "block.random_additions.cork": "Cork",
+      "item.random_additions.bismuth_tools_pickaxe": "Bismuth Pickaxe",
+      "advancements.superhotstuff.title": "Super hot stuff",
+      "item.random_additions.bismuth": "Bismuth",
+      "item.minecraft.tipped_arrow.effect.confusion": "Arrow of Confusion",
+      "itemGroup.tabrandomadditions_items": "Random additions Items",
+      "item.minecraft.tipped_arrow.effect.poweroftheborgor": "Arrow of Poweroftheborgor",
+      "item.random_additions.borgium_hoe": "Borgium Hoe",
+      "block.random_additions.bismuth_ore": "Bismuth Ore",
+      "advancements.economycrasher.title": "Economy crasher",
+      "item.minecraft.lingering_potion.effect.confusion": "Lingering Confusion",
+      "effect.confusion": "Confusion",
+      "advancements.economycrasher.descr": "Have 1000-2000 emeralds in your inventory",
+      "item.random_additions.wood_armor_armor_leggings": "Wood Leggings",
+      "advancements.explosiveordnance.descr": "Obtain a grenade",
+      "advancements.oooshiny.title": "Ooo shiny",
+      "item.minecraft.splash_potion.effect.confusion": "Splash Confusion",
+      "item.random_additions.bismuth_tools_hoe": "Bismuth Hoe",
+      "advancements.sawtime.descr": "Make a saw",
+      "biome.random_additions.theinfection": "The infection",
+      "item.random_additions.drillbit": "Drill bit",
+      "item.random_additions.heart": "Heart",
+      "item.random_additions.chainsaw": "Chainsaw",
+      "item.random_additions.enchantedborgor": "Enchantedborgor",
+      "effect.poweroftheborgor": "Power of the borgor",
+      "item.random_additions.magma_ingot": "Magma",
+      "item.random_additions.wood_armor_armor_boots": "Wood Boots",
+      "item.random_additions.gun": "gun",
+      "item.random_additions.borgium_armor_boots": "Borgium Boots",
+      "block.random_additions.borgium_block": "Block of Borgium",
+      "item.random_additions.borgium_axe": "Borgium Axe",
+      "item.random_additions.borgium_dust": "Borgium",
+      "advancements.whatdid_itellyou.descr": "Eat a Suspicious Borgor",
+      "itemGroup.tabrandom_additionstools": "Random Additionstools",
+      "item.random_additions.bark": "Bark",
+      "advancements.explosiveordnance.title": "Explosive ordnance",
+      "advancements.whatdid_itellyou.title": "What did I tell you",
+      "advancements.joingame.descr": "Thank you so much for downloading my mod!",
+      "item.minecraft.potion.effect.confusion": "Confusion",
+      "item.random_additions.grenadethrownitem": "Grenadethrownitem",
+      "block.random_additions.borgium_ore": "Borgium Ore",
+      "item.random_additions.borgor": "Suspicious Borgor",
+      "advancements.joingame.title": "Loaded in",
+      "item.random_additions.wood_armor_armor_chestplate": "Wood Chestplate",
+      "item.minecraft.lingering_potion.effect.poweroftheborgor": "Lingering Poweroftheborgor",
+      "advancements.sawtime.title": "Saw time",
+      "block.random_additions.bismuth_block": "Block of Bismuth",
+      "advancements.oooshiny.descr": "Obtain a Bismuth gem",
+      "itemGroup.tabrandom_additions_weapons": "Random Additions Weapons",
+      "item.random_additions.bismuth_tools_sword": "Bismuth Sword",
+      "item.random_additions.borgium_shovel": "Borgium Shovel",
+      "item.random_additions.borgium_armor_helmet": "Borgium Helmet",
+      "item.random_additions.bismuth_tools_shovel": "Bismuth Shovel",
+      "item.random_additions.wood_armor_armor_helmet": "Wood Helmet",
+      "advancements.suspiciouslookingborgor.descr": "I would not eat that if i were you",
+      "block.random_additions.magma_ore": "Magma Ore",
+      "item.random_additions.bullets": "Bullets",
+      "item.random_additions.borgium_armor_leggings": "Borgium Leggings",
+      "item.random_additions.bismuth_tools_axe": "Bismuth Axe",
+      "itemGroup.tabrandom_additions_food": "Random Additions Food",
+      "item.random_additions.borgium_sword": "Borgium Sword",
+      "block.random_additions.magma_block": "Block of Magma",
+      "item.random_additions.borgium_pickaxe": "Borgium Pickaxe"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "random_additions",
+    "modName": "Random Additions",
+    "version": "1.0.0",
+    "author": "Mute",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.randomadditions",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200120510
+}

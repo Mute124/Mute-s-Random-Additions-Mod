@@ -1,0 +1,11 @@
+{
+  "_fv": 28,
+  "_type": "tab",
+  "definition": {
+    "name": "Random Additions Food",
+    "icon": {
+      "value": "Items.BREAD"
+    },
+    "showSearch": false
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "random_additions:borgium_dust"
+    },
+    "1": {
+      "item": "random_additions:borgium_dust"
+    },
+    "2": {
+      "item": "random_additions:borgium_dust"
+    },
+    "3": {
+      "item": "random_additions:borgium_dust"
+    },
+    "5": {
+      "item": "random_additions:borgium_dust"
+    },
+    "6": {
+      "item": "random_additions:borgium_dust"
+    },
+    "8": {
+      "item": "random_additions:borgium_dust"
+    }
+  },
+  "result": {
+    "item": "random_additions:borgium_armor_leggings",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "random_additions:blocks/cork_2",
+    "up": "random_additions:blocks/cork_2",
+    "north": "random_additions:blocks/cork_2",
+    "east": "random_additions:blocks/cork_2",
+    "south": "random_additions:blocks/cork_2",
+    "west": "random_additions:blocks/cork_2",
+    "particle": "random_additions:blocks/cork_2"
+  }
+}

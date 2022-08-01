@@ -1,0 +1,31 @@
+{
+  "_fv": 28,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "bismuth_tools_shovel",
+    "customModelName": "Normal",
+    "name": "Bismuth Shovel",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:RandomAdditionstools"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 3,
+    "efficiency": 7.5,
+    "attackSpeed": 1.0,
+    "enchantability": 27,
+    "damageVsEntity": 4.0,
+    "usageCount": 614,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Bismuth"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

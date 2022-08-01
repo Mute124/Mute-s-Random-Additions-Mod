@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "random_additions:bismuth"
+    },
+    "1": {
+      "item": "random_additions:bismuth"
+    },
+    "2": {
+      "item": "random_additions:bismuth"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "random_additions:bismuth_tools_axe",
+    "count": 1
+  }
+}

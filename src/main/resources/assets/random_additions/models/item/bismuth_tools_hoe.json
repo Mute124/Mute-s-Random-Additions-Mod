@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "random_additions:items/bismuth_tools_hoe"
+  }
+}

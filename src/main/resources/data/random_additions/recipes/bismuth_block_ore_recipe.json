@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "random_additions:bismuth_block"
+    }
+  ],
+  "result": {
+    "item": "random_additions:bismuth",
+    "count": 9
+  }
+}

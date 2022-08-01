@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "random_additions:borgor"
+    },
+    "title": {
+      "translate": "advancements.suspiciouslookingborgor.title"
+    },
+    "description": {
+      "translate": "advancements.suspiciouslookingborgor.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "suspiciouslookingborgor": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "random_additions:borgor",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "random_additions:oooshiny"
+}

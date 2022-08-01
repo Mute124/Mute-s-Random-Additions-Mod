@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "random_additions:bark"
+    },
+    "1": {
+      "item": "random_additions:bark"
+    },
+    "2": {
+      "item": "random_additions:bark"
+    },
+    "3": {
+      "item": "random_additions:bark"
+    },
+    "4": {
+      "item": "random_additions:bark"
+    },
+    "5": {
+      "item": "random_additions:bark"
+    },
+    "6": {
+      "item": "random_additions:bark"
+    },
+    "7": {
+      "item": "random_additions:bark"
+    },
+    "8": {
+      "item": "random_additions:bark"
+    }
+  },
+  "result": {
+    "item": "random_additions:cork",
+    "count": 1
+  }
+}

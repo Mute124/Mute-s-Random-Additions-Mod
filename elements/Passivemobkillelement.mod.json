@@ -1,0 +1,7 @@
+{
+  "_fv": 28,
+  "_type": "procedure",
+  "definition": {
+    "procedurexml": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><xml xmlns=\"https://developers.google.com/blockly/xml\"><variables><variable id=\"numberoffoxeskilled\" type=\"Number\">numberoffoxeskilled</variable></variables><block deletable=\"false\" type=\"event_trigger\" x=\"40\" y=\"40\"><field name=\"trigger\">entity_dies</field><next><block type=\"variables_set_number\"><field name=\"VAR\">local:numberoffoxeskilled</field></block></next></block><block type=\"variables_get_string\" x=\"141\" y=\"143\"><field name=\"VAR\"/></block><block type=\"variables_get_number\" x=\"323\" y=\"238\"><field name=\"VAR\">local:numberoffoxeskilled</field></block><block type=\"controls_if\" x=\"80\" y=\"260\"><mutation else=\"1\"/></block><block type=\"entity_gettargetentity\" x=\"321\" y=\"268\"><value name=\"entity\"><block type=\"entity_from_deps\"/></value></block><block type=\"variables_set_logic\" x=\"25\" y=\"380\"><field name=\"VAR\">global:test</field></block><block type=\"variables_set_number\" x=\"240\" y=\"427\"><field name=\"VAR\"/></block></xml>"
+  }
+}

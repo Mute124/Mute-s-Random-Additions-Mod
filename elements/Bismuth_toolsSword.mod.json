@@ -1,0 +1,31 @@
+{
+  "_fv": 28,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "bismuth_tools_sword",
+    "customModelName": "Normal",
+    "name": "Bismuth Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:RandomAdditionsWeapons"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 4,
+    "efficiency": 9.0,
+    "attackSpeed": 0.7000000000000001,
+    "enchantability": 27,
+    "damageVsEntity": 5.0,
+    "usageCount": 614,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Bismuth"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

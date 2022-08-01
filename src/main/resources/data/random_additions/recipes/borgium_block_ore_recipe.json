@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "random_additions:borgium_block"
+    }
+  ],
+  "result": {
+    "item": "random_additions:borgium_dust",
+    "count": 9
+  }
+}

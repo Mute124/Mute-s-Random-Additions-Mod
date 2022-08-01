@@ -1,0 +1,11 @@
+{
+  "_fv": 28,
+  "_type": "tab",
+  "definition": {
+    "name": "Randomadditionsarmor",
+    "icon": {
+      "value": "CUSTOM:Wood_ArmorArmor.helmet"
+    },
+    "showSearch": false
+  }
+}

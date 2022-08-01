@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "random_additions:bismuth"
+    },
+    "1": {
+      "item": "random_additions:bismuth"
+    },
+    "2": {
+      "item": "random_additions:bismuth"
+    },
+    "3": {
+      "item": "random_additions:bismuth"
+    },
+    "4": {
+      "item": "random_additions:bismuth"
+    },
+    "5": {
+      "item": "random_additions:bismuth"
+    },
+    "6": {
+      "item": "random_additions:bismuth"
+    },
+    "7": {
+      "item": "random_additions:bismuth"
+    },
+    "8": {
+      "item": "random_additions:bismuth"
+    }
+  },
+  "result": {
+    "item": "random_additions:bismuth_block",
+    "count": 1
+  }
+}

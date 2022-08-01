@@ -1,0 +1,11 @@
+{
+  "_fv": 28,
+  "_type": "tab",
+  "definition": {
+    "name": "Random Additions Weapons",
+    "icon": {
+      "value": "CUSTOM:Bismuth_toolsSword"
+    },
+    "showSearch": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_fv": 28,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "chainsaw",
+    "customModelName": "Normal",
+    "name": "Chainsaw",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:RandomAdditionstools"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 1,
+    "efficiency": 9.5,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 4.0,
+    "usageCount": 100,
+    "blocksAffected": [
+      {
+        "value": "Blocks.LOG"
+      }
+    ],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

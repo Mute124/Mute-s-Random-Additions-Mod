@@ -1,0 +1,43 @@
+{
+  "_fv": 28,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 0,
+    "texture": "grenade",
+    "customModelName": "Normal",
+    "name": "Grenade",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:RandomAdditionsWeapons"
+    },
+    "stackSize": 16,
+    "ammoItem": {
+      "value": "CUSTOM:Grenadethrownitem"
+    },
+    "shootConstantly": false,
+    "usageCount": 100,
+    "actionSound": {
+      "value": "entity.creeper.primed"
+    },
+    "hasGlow": false,
+    "animation": "spear",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 1.0,
+    "bulletDamage": 5.0,
+    "bulletKnockback": 5,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Grenadethrownitem"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsBlock": {
+      "name": "GrenadeBulletHitsBlock"
+    },
+    "onBulletHitsEntity": {
+      "name": "GrenadeBulletHitsBlock"
+    }
+  }
+}
