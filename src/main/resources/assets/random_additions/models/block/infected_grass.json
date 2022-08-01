@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "random_additions:blocks/infected_soil",
+    "up": "random_additions:blocks/infected_grass",
+    "north": "random_additions:blocks/infected_grass_side",
+    "east": "random_additions:blocks/infected_grass_side",
+    "south": "random_additions:blocks/infected_grass_side",
+    "west": "random_additions:blocks/infected_grass_side",
+    "particle": "random_additions:blocks/infected_soil"
+  }
+}

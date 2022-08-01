@@ -910,6 +910,22 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "enchantedborgor"
+    },
+    {
+      "name": "InfectedGrass",
+      "type": "block",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "infected_grass"
+    },
+    {
+      "name": "Infectedsoil",
+      "type": "block",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "infectedsoil"
     }
   ],
   "variable_elements": [
@@ -949,6 +965,7 @@
       "advancements.economycrasher.title": "Economy crasher",
       "item.minecraft.lingering_potion.effect.confusion": "Lingering Confusion",
       "effect.confusion": "Confusion",
+      "block.random_additions.infectedsoil": "Infectedsoil",
       "advancements.economycrasher.descr": "Have 1000-2000 emeralds in your inventory",
       "item.random_additions.wood_armor_armor_leggings": "Wood Leggings",
       "advancements.explosiveordnance.descr": "Obtain a grenade",
@@ -982,6 +999,7 @@
       "advancements.joingame.title": "Loaded in",
       "item.random_additions.wood_armor_armor_chestplate": "Wood Chestplate",
       "item.minecraft.lingering_potion.effect.poweroftheborgor": "Lingering Poweroftheborgor",
+      "block.random_additions.infected_grass": "Infected Grass",
       "advancements.sawtime.title": "Saw time",
       "block.random_additions.bismuth_block": "Block of Bismuth",
       "advancements.oooshiny.descr": "Obtain a Bismuth gem",
